@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesmetr00koesgoog_0006.png"; bbox 0 0 3066 4916; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 2975 1164 3075">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 2975 1164 3075">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 2975 1164 3075; baseline -0.004 -2"><span class='ocrx_word' id='word_1_1' title='bbox 257 2978 397 3075; x_wconf 62' lang='lat' dir='ltr'>Sfflfflsss</span> <span class='ocrx_word' id='word_1_2' title='bbox 424 2978 461 3073; x_wconf 83' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 487 2976 714 3072; x_wconf 68' lang='lat' dir='ltr'><strong>PfflLnsopfflA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 745 2976 898 3071; x_wconf 74' lang='lat' dir='ltr'>flnNssREs</span> <span class='ocrx_word' id='word_1_5' title='bbox 927 2975 1164 3074; x_wconf 71' lang='lat' dir='ltr'><strong>cAPflssflNflsss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 369 3334 1240 3527">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 369 3334 1240 3527">
+     <span class='ocr_line' id='line_1_2' title="bbox 369 3334 1240 3471; baseline -0.006 -48"><span class='ocrx_word' id='word_1_6' title='bbox 369 3336 689 3423; x_wconf 79' lang='lat' dir='ltr'><strong>HENRIOUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 722 3337 1045 3471; x_wconf 42' lang='lat' dir='ltr'>§OESTERS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1140 3334 1240 3359; x_wconf 73' lang='grc'><strong>“’“”</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 608 3470 814 3527; baseline 0.01 -3"><span class='ocrx_word' id='word_1_9' title='bbox 608 3470 814 3527; x_wconf 74' lang='lat' dir='ltr'><strong>RHENAMJS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1538 4916">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1538 4916">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1538 4916; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1538 4916; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
